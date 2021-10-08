@@ -1,16 +1,8 @@
-<h1>flutter ui game</h1>
+<h1>Spotify with TM071 -Clone </h1>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="vscode Logo" with="50" height="50"/>
+<h3> Ui spotify 23/09/2021</h3>
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>Accueil</h3>
+<img src="https://github.com/abenkoula71/spotify/blob/main/Screenshot_1633421127.png" width="300" />
+<hr>
