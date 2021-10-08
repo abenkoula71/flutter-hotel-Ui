@@ -1,8 +1,12 @@
-<h1>Spotify with TM071 -Clone </h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png" alt="vscode Logo" with="50" height="50"/>
-<h3> Ui spotify 23/09/2021</h3>
+<h1>flutter hotel Ui</h1>
 
 
 <h3>Accueil</h3>
-<img src="https://github.com/abenkoula71/spotify/blob/main/Screenshot_1633421127.png" width="300" />
+<img src="https://github.com/abenkoula71/UI-Hotle/blob/main/Screenshot_1633671961.png" width="300" />
 <hr>
+<img src="https://github.com/abenkoula71/UI-Hotle/blob/main/Screenshot_1633671967.png" width="300" />
+<hr>
+
+<img src="https://github.com/abenkoula71/UI-Hotle/blob/main/Screenshot_1633671982.png" width="300" />
+<hr>
+
